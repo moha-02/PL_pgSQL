@@ -122,7 +122,7 @@ end $$
 Language 'plpgsql';
 ----------------------------------------------------------------------------------------------------------------
 
--- HERE WE CAN SEE THE TIGGER WORKING WITH THE UPDATE SALARY
+-- HERE WE CAN SEE THE TRIGGER WORKING WITH THE UPDATE SALARY
 
 select*from employees;
 call change_salary(1,84562);
