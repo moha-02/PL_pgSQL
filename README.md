@@ -84,10 +84,11 @@ Language 'plpgsql';
 
 The SQL file contains the script in the order of exacution
 
-1.  Import the Script in the plpgsql.sql file to your database query console.
-2. Execute the script from top to bottom.
-3. We recommend executing the script by parts by following the schema in the script.
-4. The order is commented and delimited.
+1. Create a database in Postgres : CREATE DATABASE "database_name"
+2.  Import the Script in the plpgsql.sql file to your database query console.
+3. Execute the script from top to bottom.
+4. We recommend executing the script by parts by following the schema in the script.
+5. The order is commented and delimited.
 
 ## Conclusions
 
