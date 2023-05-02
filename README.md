@@ -80,6 +80,15 @@ end $$
 Language 'plpgsql';
 ~~~
 
+## Instructions 👷‍♂️
+
+The SQL file contains the script in the order of exacution
+
+1.  Import the Script in the plpgsql.sql file to your database query console.
+2. Execute the script from top to bottom.
+3. We recommend executing the script by parts by following the schema in the script.
+4. The order is commented and delimited.
+
 ## Conclusions
 
 To sum up, the PlPgSql is a programing language oriented to managing the database. It makes a lot of repetitive work shorter and faster, also allows to automatize trought triggers. The project helped to practice the mos important parts about plpgsql that makes it very usefull.
