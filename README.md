@@ -94,6 +94,10 @@ The SQL file contains the script in the order of exacution
 
 To sum up, the PlPgSql is a programing language oriented to managing the database. It makes a lot of repetitive work shorter and faster, also allows to automatize trought triggers. The project helped to practice the mos important parts about plpgsql that makes it very usefull.
 
+## Bibliography
+
+Postgres documentation: https://www.postgresqltutorial.com/postgresql-plpgsql/
+
 ## BY 👨‍💻
 
 Mohammed Salhi
